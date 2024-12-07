@@ -35,12 +35,12 @@
 
 ## Опыт работы
 
-### Ведущий ML и Data Engineer
+### Lead ML и Data Engineer
 **D2D Studio**  
 *Ноябрь 2024 — настоящее время*  
 *Удаленно, Нидерланды*
 
-### ETL-разработчик / Data Engineer
+### ETL-Developer / Data Engineer
 **FGUP VNII Center**  
 *Февраль 2024 — Май 2024 | 4 месяца*  
 *Гибридный формат, Россия*  
